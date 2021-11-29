@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:arsenal/data.dart';
+import 'package:real_estate/data.dart';
 
 class Detail extends StatelessWidget {
 
